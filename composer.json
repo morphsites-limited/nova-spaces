@@ -33,6 +33,7 @@
     "extra":{
         "laravel": {
             "providers": [
+                "Dewsign\\NovaSpaces\\Providers\\AuthServiceProvider",
                 "Dewsign\\NovaSpaces\\Providers\\PackageServiceProvider"
             ]
         }
